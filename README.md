@@ -18,3 +18,9 @@ To obtain this data from many multiple CSVs, I used Pandas and a forloop to loop
 
 To explore the data further, I broke the data into viewing the separate genders.   
 
+
+Historic weather was obtained https://www.ncdc.noaa.gov/cdo-web/ and charted against the graph.  It is interesting to note that as the weather gets better more people bike. 
+
+![Image4](https://github.com/firedynasty/Tableau-challenge/blob/main/images/image4.jpg)
+
+
