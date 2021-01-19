@@ -24,3 +24,12 @@ Historic weather was obtained https://www.ncdc.noaa.gov/cdo-web/ and charted aga
 ![Image4](https://github.com/firedynasty/Tableau-challenge/blob/main/images/image4.jpg)
 
 
+
+I wanted to see at which hours there is more activity and can be seen in the next image:
+
+![Image5](https://github.com/firedynasty/Tableau-challenge/blob/main/images/image5.jpg)
+
+
+For public officials who are looking at this data, the map below should be helpful.  Commute hours appear to be the most heavily used time in the system, so officials should make sure that bikes are available for use.  I would imagine in the morning when people are getting out of the subway they are jumping onto a bike or after getting off the ferry (if there is one) because there are two stations near the water that are heavily used for starting and ending a bike ride.  To retrieve bikes that are dropped off, it would be prudent to grab bicycles from heavily used end stations, which could be further explored by time. 
+
+![Image6](https://github.com/firedynasty/Tableau-challenge/blob/main/images/image6.jpg)
